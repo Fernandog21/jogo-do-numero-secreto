@@ -12,4 +12,5 @@
 
 # Time
 
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/171077858?s=400&v=4" width=115><br><sub>Fernando Goularte</sub>](https://github.com/Fernandog21)
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/171077858?s=400&v=4" width=115><br><sub>Fernando Goularte</sub>](https://github.com/Fernandog21) |
+| :---: |
